@@ -1,0 +1,414 @@
+{
+  "Space": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "150": {
+      "$value": 6,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "250": {
+      "$value": 10,
+      "$type": "number"
+    },
+    "300": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "350": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "450": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "500": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "550": {
+      "$value": 22,
+      "$type": "number"
+    },
+    "600": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "650": {
+      "$value": 26,
+      "$type": "number"
+    },
+    "700": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "750": {
+      "$value": 30,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "850": {
+      "$value": 34,
+      "$type": "number"
+    },
+    "900": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "950": {
+      "$value": 38,
+      "$type": "number"
+    },
+    "1000": {
+      "$value": 40,
+      "$type": "number"
+    },
+    "1050": {
+      "$value": 42,
+      "$type": "number"
+    },
+    "1100": {
+      "$value": 44,
+      "$type": "number"
+    },
+    "1150": {
+      "$value": 46,
+      "$type": "number"
+    },
+    "1200": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "1600": {
+      "$value": 64,
+      "$type": "number"
+    },
+    "2400": {
+      "$value": 96,
+      "$type": "number"
+    },
+    "4000": {
+      "$value": 160,
+      "$type": "number"
+    },
+    "Negative 100": {
+      "$value": -4,
+      "$type": "number"
+    },
+    "Negative 200": {
+      "$value": -8,
+      "$type": "number"
+    },
+    "Negative 300": {
+      "$value": -12,
+      "$type": "number"
+    },
+    "Negative 400": {
+      "$value": -16,
+      "$type": "number"
+    },
+    "Negative 600": {
+      "$value": -24,
+      "$type": "number"
+    },
+    "050": {
+      "$value": 2,
+      "$type": "number"
+    },
+    "Negative 50": {
+      "$value": -2,
+      "$type": "number"
+    },
+    "Negative 150": {
+      "$value": -6,
+      "$type": "number"
+    }
+  },
+  "Radius": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "50": {
+      "$value": 2,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "150": {
+      "$value": 6,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "250": {
+      "$value": 10,
+      "$type": "number"
+    },
+    "300": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "350": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "450": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "500": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "550": {
+      "$value": 22,
+      "$type": "number"
+    },
+    "600": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "650": {
+      "$value": 26,
+      "$type": "number"
+    },
+    "700": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "750": {
+      "$value": 30,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "850": {
+      "$value": 34,
+      "$type": "number"
+    },
+    "900": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "950": {
+      "$value": 38,
+      "$type": "number"
+    },
+    "1000": {
+      "$value": 40,
+      "$type": "number"
+    },
+    "Full": {
+      "$value": 200,
+      "$type": "number"
+    }
+  },
+  "Depth": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "900": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "1200": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "025": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "Negative 025": {
+      "$value": -1,
+      "$type": "number"
+    },
+    "Negative 100": {
+      "$value": -4,
+      "$type": "number"
+    },
+    "Negative 200": {
+      "$value": -8,
+      "$type": "number"
+    },
+    "Negative 400": {
+      "$value": -16,
+      "$type": "number"
+    },
+    "Negative 800": {
+      "$value": -32,
+      "$type": "number"
+    },
+    "Negative 1200": {
+      "$value": -48,
+      "$type": "number"
+    }
+  },
+  "Stroke": {
+    "25": {
+      "$value": 1,
+      "$type": "number"
+    },
+    "50": {
+      "$value": 2,
+      "$type": "number"
+    },
+    "75": {
+      "$value": 3,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "o": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "Focus Ring": {
+      "$value": 2,
+      "$type": "number"
+    }
+  },
+  "Blur": {
+    "100": {
+      "$value": 4,
+      "$type": "number"
+    }
+  },
+  "Icon": {
+    "50": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "150": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "250": {
+      "$value": 22,
+      "$type": "number"
+    },
+    "300": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "350": {
+      "$value": 26,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "450": {
+      "$value": 30,
+      "$type": "number"
+    },
+    "500": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "550": {
+      "$value": 34,
+      "$type": "number"
+    },
+    "600": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "650": {
+      "$value": 38,
+      "$type": "number"
+    },
+    "700": {
+      "$value": 40,
+      "$type": "number"
+    },
+    "800": {
+      "$value": 44,
+      "$type": "number"
+    },
+    "950": {
+      "$value": 50,
+      "$type": "number"
+    },
+    "1400": {
+      "$value": 64,
+      "$type": "number"
+    },
+    "1450": {
+      "$value": 66,
+      "$type": "number"
+    },
+    "2050": {
+      "$value": 78,
+      "$type": "number"
+    },
+    "2150": {
+      "$value": 82,
+      "$type": "number"
+    },
+    "2700": {
+      "$value": 100,
+      "$type": "number"
+    }
+  }
+}
