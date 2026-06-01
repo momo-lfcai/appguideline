@@ -1,0 +1,224 @@
+{
+  "Title Page": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Font Weight Bold": {
+      "$value": "{Weight Bold}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Scale 11}",
+      "$type": "number"
+    },
+    "Size Base": {
+      "$value": "{Scale 12}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 13}",
+      "$type": "number"
+    },
+    "Font Weight Medium": {
+      "$value": "{Weight Medium}",
+      "$type": "number"
+    }
+  },
+  "Subtitle": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Size Base": {
+      "$value": "{Scale 09}",
+      "$type": "number"
+    },
+    "Font Weight Regular": {
+      "$value": "{Weight Regular}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 10}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Scale 08}",
+      "$type": "number"
+    },
+    "Font Weight Bold": {
+      "$value": "{Weight Bold}",
+      "$type": "number"
+    },
+    "Font Weight Medium": {
+      "$value": "{Weight Medium}",
+      "$type": "number"
+    }
+  },
+  "Body": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Size Medium": {
+      "$value": "{Scale 05}",
+      "$type": "number"
+    },
+    "Font Weight Regular": {
+      "$value": "{Weight Regular}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 06}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Scale 03}",
+      "$type": "number"
+    },
+    "Font Weight Semibold": {
+      "$value": "{Weight Semibold}",
+      "$type": "number"
+    },
+    "Size Base": {
+      "$value": "{Scale 04}",
+      "$type": "number"
+    },
+    "Font Weight Light": {
+      "$value": "{Weight Light}",
+      "$type": "number"
+    },
+    "Size Extra Large": {
+      "$value": "{Scale 07}",
+      "$type": "number"
+    },
+    "Font Weight Medium": {
+      "$value": "{Weight Medium}",
+      "$type": "number"
+    }
+  },
+  "Code": {
+    "Font Family": {
+      "$value": "{Family Mono}",
+      "$type": "string"
+    },
+    "Size Base": {
+      "$value": "{Body.Size Medium}",
+      "$type": "number"
+    },
+    "Font Weight Regular": {
+      "$value": "{Body.Font Weight Regular}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Body.Size Large}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Body.Size Small}",
+      "$type": "number"
+    },
+    "Font Weight Light": {
+      "$value": "{Body.Font Weight Light}",
+      "$type": "number"
+    },
+    "Font Weight Medium": {
+      "$value": "{Body.Font Weight Medium}",
+      "$type": "number"
+    }
+  },
+  "Heading": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Size Base": {
+      "$value": "{Scale 08}",
+      "$type": "number"
+    },
+    "Font Weight Semibold": {
+      "$value": "{Weight Semibold}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 09}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Scale 07}",
+      "$type": "number"
+    },
+    "Font Weight Bold": {
+      "$value": "{Weight Bold}",
+      "$type": "number"
+    },
+    "Font Weight Regular": {
+      "$value": "{Weight Regular}",
+      "$type": "number"
+    },
+    "Size Medium": {
+      "$value": "{Scale 08}",
+      "$type": "number"
+    },
+    "Font Weight Light": {
+      "$value": "{Weight Light}",
+      "$type": "number"
+    }
+  },
+  "Title Hero": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Size Base": {
+      "$value": "{Scale 15}",
+      "$type": "number"
+    },
+    "Font Weight Bold": {
+      "$value": "{Weight Bold}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 16}",
+      "$type": "number"
+    },
+    "Size Small": {
+      "$value": "{Scale 14}",
+      "$type": "number"
+    },
+    "Font Weight Semibold": {
+      "$value": "{Weight Semibold}",
+      "$type": "number"
+    }
+  },
+  "Subheading": {
+    "Font Family": {
+      "$value": "{Family Sans}",
+      "$type": "string"
+    },
+    "Size Small": {
+      "$value": "{Scale 06}",
+      "$type": "number"
+    },
+    "Size Medium": {
+      "$value": "{Scale 07}",
+      "$type": "number"
+    },
+    "Size Large": {
+      "$value": "{Scale 08}",
+      "$type": "number"
+    },
+    "Font Weight Regular": {
+      "$value": "{Weight Regular}",
+      "$type": "number"
+    },
+    "Font Weight Light": {
+      "$value": "{Weight Light}",
+      "$type": "number"
+    },
+    "Font Weight Medium": {
+      "$value": "{Weight Medium}",
+      "$type": "number"
+    }
+  }
+}
